@@ -20,4 +20,4 @@ Please fortk this repo and then issue Pull request for review
 
 ## Copyright
 
-2014 Git.Traiing.
+2014 Git.Traiing.  All rights reserved.

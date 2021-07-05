@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 This is a simple web project, deployment can be on any platform
 
 ## How to Contribute
+
+## Copyright
+
+2014 Git.Traiing.

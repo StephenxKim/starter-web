@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any platform
 
 ## How to Contribute
 
+Please fortk this repo and then issue Pull request for review
+
 ## Copyright
 
 2014 Git.Traiing.
